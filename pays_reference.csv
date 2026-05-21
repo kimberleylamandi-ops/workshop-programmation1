@@ -1,0 +1,6 @@
+country,temperature_c,precipitation_mm,population,area_km2,currency,languages,eur_usd_rate,pop_density
+France,15.7,0.0,66351959,543908.0,EUR,French,1.162,122.0
+Germany,19.9,0.0,83491249,357114.0,EUR,German,1.162,233.8
+Spain,25.8,0.0,49315949,505992.0,EUR,"Spanish, Catalan, Basque, Galician",1.162,97.5
+Italy,21.9,0.0,58927633,301336.0,EUR,"Italian, Catalan",1.162,195.6
+Netherlands,14.1,0.1,31980,328.0,USD,"English, Dutch, Papiamento",1.162,97.5
